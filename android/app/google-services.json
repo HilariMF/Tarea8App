@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201973054322",
+    "project_id": "vivencias-23bb5",
+    "storage_bucket": "vivencias-23bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201973054322:android:5e40a70a74a904f940fbeb",
+        "android_client_info": {
+          "package_name": "com.example.war_20220037"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9Hdd5RB8IcK34uzzk3v-2vWJAXW32-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
